@@ -15,8 +15,7 @@
 <br />
 
 ### Demo Screeshots
-
-![Music Player Desktop Demo](img width="950" height="439" alt="image" src="https://github.com/user-attachments/assets/38fa5afa-e9dd-4ec9-8189-401145a99a64".png "Desktop Demo")
+<img width="1643" height="931" alt="Screenshot 2026-03-27 104136" src="https://github.com/user-attachments/assets/f10d7e32-4c37-4497-8386-923f4f51415b" />
 
 ### Prerequisites
 
