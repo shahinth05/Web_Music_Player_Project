@@ -8,7 +8,7 @@
 
   A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript.
 
-  <a href="https://github.com/shahinth05/Web_Music_Player_Project.git"><strong>➥ Live Demo</strong></a>
+  <a href="http://127.0.0.1:5500/Index.html"><strong>➥ Live Demo</strong></a>
 
 </div>
 
